@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+<suite verbose="1" name="YouTube Test suite">
+         
+  <test name="YouTube Test suite">
+	 <classes>
+	   <class name="com.src.Tests.Web"/>
+	 </classes>
+   </test>
+   
+</suite>
